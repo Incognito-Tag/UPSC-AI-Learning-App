@@ -1,137 +1,109 @@
-Privacy Policy
+# Privacy Policy
 
-UPSC Tech is a smart learning platform developed to support UPSC aspirants through digital tools, AI-based assessments, and personalized study analytics. At UPSC Tech, we respect your privacy and are committed to protecting your personal and academic information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our platform and related services. By using our app or website, you agree to the terms of this Privacy Policy.
+**UPSC Tech** is a digital education initiative developed for **UPSC Aspirants**. At **UPSC Tech**, we value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal and academic information when you use our mobile application, web platform, and related services. By using our app, you agree to the terms of this Privacy Policy.
 
-1. Information We Collect and How We Use It
-User Information
+---
 
-When you sign up or use our services, we may collect information such as your name, email, phone number, educational background, and account credentials. This helps us create your learner profile, manage your subscriptions, and provide tailored learning experiences.
+## 1. Information We Collect and How We Use It
 
-Academic Data
+### User Information
+When you sign up or use our services, we may collect information such as your **name, email, contact number, educational background, and region**. This allows us to create your profile, verify your credentials, and provide access to learning tools, test materials, and AI-based analytics within the app.
 
-We collect certain academic and usage data, including:
+### Academic and Learning Data
+We may collect certain **non-identifiable educational usage data** such as test attempts, performance reports, AI evaluation results, and study progress logs. These are used to enhance user experience and support academic growth, **without linking any identifiable personal data**.
 
-Practice test results, quiz attempts, and writing submissions.
+### Device Data
+We may collect device-specific information, such as:
+- **Device Attributes:** OS type and version, app version, screen resolution, and language preferences.  
+- **Network Information:** IP address, internet service provider, and connection type (Wi-Fi, mobile data).  
+- **Crash and Performance Data:** For app stability and troubleshooting.  
 
-AI-based feedback, evaluation scores, and learning progress reports.
+### Log Data and Analytics
+We automatically collect **log data** and use **analytics tools** (such as Firebase, Google Analytics, or Mixpanel) to understand app usage and improve features. No private educational content (like notes or answers) is shared through analytics.
 
-Subject interests, attempted topics, and usage frequency.
+### Location Information
+If enabled, we may collect **approximate location data** to personalize content or provide location-based features (e.g., regional tests or updates).
 
-This data is used only to improve your preparation experience and generate personalized learning insights.
+### Support and Feedback Data
+Any information you voluntarily share with our support or feedback channels (text, screenshots, error reports) may be stored to help resolve issues and improve app performance.
 
-Device Data
+---
 
-We may collect device-related data such as:
+## 2. How We Use the Data
+We use collected data for:
+- Account creation and secure access to the app.  
+- Delivering core learning and assessment features.  
+- Providing updates and notifications related to app improvements.  
+- Enhancing app performance and user experience.  
+- Personalizing content based on user preferences or location.  
+- Responding to technical or support queries.  
+- Maintaining compliance with institutional and regulatory requirements.  
 
-Device Attributes: Operating system, browser type, app version, screen size, and language settings.
+---
 
-Network Information: IP address, ISP, and connection type (Wi-Fi or mobile).
+## 3. Disclosure of Information
+We **do not sell or rent** your personal data to any third party. Your data may be shared only:
+- With your **explicit consent**.  
+- With **trusted educational or research partners** (only in **aggregated or anonymized** form).  
+- With **third-party service providers** (e.g., cloud hosting, analytics, payment gateways) to enable app functionality.  
+- When required by **law, court order, or government regulation**.
 
-Crash Logs & Performance Data: For diagnosing and improving system performance.
+All third-party partners are bound by confidentiality and data protection agreements.
 
-Log Data & Analytics
+---
 
-We automatically record log data and use analytics tools (like Firebase, Mixpanel, or Google Analytics) to understand user behavior and enhance our educational tools. No personally identifiable content from your study materials or notes is shared externally.
+## 4. Security Practices
+We employ **industry-standard security measures** (encryption, secure access control, and limited data retention) to protect your information.  
+Users are responsible for maintaining the **confidentiality of their login credentials**.
 
-Location Information
+---
 
-If permitted, we may collect approximate location data to offer region-based study updates, mock tests, or competitive analytics.
+## 5. Storage of Personal Information
+Your data is stored on **secure, encrypted servers** hosted on **trusted cloud platforms**.  
+Access is restricted to authorized personnel only for legitimate purposes.
 
-Feedback & Support Data
+---
 
-When you contact our support team or provide feedback, we may store your messages, attachments, or screenshots to improve the platform’s quality and responsiveness.
-
-2. How We Use the Data
-
-We use collected information to:
-
-Create and manage your UPSC Tech account.
-
-Deliver and personalize learning content and test materials.
-
-Generate AI-powered feedback and progress tracking.
-
-Improve platform performance, stability, and learning outcomes.
-
-Notify you about new features, mock tests, or policy updates.
-
-Ensure compliance with data and academic integrity standards.
-
-3. Disclosure of Information
-
-We do not sell or rent your personal data. Information may be shared only:
-
-With your explicit consent.
-
-With trusted service providers (e.g., hosting, analytics, payment gateways) for platform operations.
-
-With educational or research partners (anonymized and aggregated data only).
-
-As required by law, regulation, or court order.
-
-All third-party integrations comply with strict data protection agreements.
-
-4. Security Practices
-
-We employ encryption, secure authentication, and controlled data access to safeguard your data.
-You are responsible for keeping your login credentials confidential and avoiding unauthorized account access.
-
-5. Storage of Personal Information
-
-Your information is securely stored on encrypted cloud servers managed by reliable hosting providers.
-Only authorized personnel can access data for legitimate administrative or educational purposes.
-
-6. Your Data Rights
-
+## 6. Your Data Rights
 You have the right to:
+- **Access, update, or delete** your profile information.  
+- **Withdraw consent** for data collection as per **Section 5(7) of the IT Rules, 2011**.  
+- **Review or correct** any personal information under **Section 5(6) of the IT Rules, 2011**.  
 
-Access, correct, or delete your personal information.
+Please note that revoking consent may limit access to certain app features.
 
-Withdraw consent for data processing under Section 5(7) of the IT Rules, 2011.
+---
 
-Review your stored information under Section 5(6) of the IT Rules, 2011.
+## 7. Data Retention
+We retain your data only as long as necessary to provide services or as required by policy.  
+Once your account is deleted, associated non-sensitive data is anonymized or removed.
 
-Withdrawal of consent may restrict your ability to use some features.
+---
 
-7. Data Retention
+## 8. Cookies and Local Storage
+The app may use **local storage or cookies** for login persistence, offline functionality, and improving app usability. You can manage permissions through your device or browser settings.
 
-We retain your information only as long as necessary for learning and analytical purposes or as required by institutional or regulatory policy.
-Upon account deletion, your identifiable data is erased or anonymized.
+---
 
-8. Cookies and Local Storage
+## 9. Communication
+We may contact you via **email, SMS, or in-app notifications** regarding:
+- Important app updates or feature changes.  
+- Policy changes or compliance notices.  
+- Educational communications such as mock tests, reminders, and results.  
 
-We may use cookies and local storage for:
+---
 
-Login persistence and user session management.
+## 10. Policy Updates
+We may modify this Privacy Policy periodically. Updated versions will be reflected within the app or website, and users will be notified of **material changes**.
 
-Offline study access and caching of course content.
+---
 
-Enhancing app and website usability.
+## 11. Contact Information
+For questions, support, or privacy-related concerns, please contact:  
+📧 **[contact@webinix.in](mailto:contact@webinix.in)**  
+🏢 **Managed By Webinix (Nexfutrr Solutions Private Limited)**
 
-You can manage cookie permissions through browser or device settings.
+---
 
-9. Communication
-
-We may contact you through email, SMS, or in-app notifications for:
-
-New feature releases and test updates.
-
-Policy or compliance notifications.
-
-Educational alerts, reminders, or newsletters (optional).
-
-10. Policy Updates
-
-This Privacy Policy may be updated periodically.
-Any significant changes will be communicated via email or in-app alerts.
-
-11. Contact Information
-
-For privacy concerns, support, or feedback, please contact:
-📧 contact@webinix.in
-
-🏢 Managed By Webinix (Nexfutrr Solutions Private Limited)
-
-12. Conclusion
-
-At UPSC Tech, we prioritize data privacy, transparency, and ethical use of AI in education. Our goal is to create a secure, insightful, and personalized digital learning environment that empowers aspirants to excel in their UPSC journey.
+## 12. Conclusion
+At **UPSC Tech**, your **privacy and data security** are our top priorities. We are dedicated to maintaining **transparency**, ensuring **ethical data use**, and supporting **safe, responsible digital learning innovation** for UPSC aspirants and beyond.
